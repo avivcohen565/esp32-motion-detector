@@ -17,19 +17,6 @@ The project is built step-by-step, fully documented, and versioned with Git and 
 
 ---
 
-## Project Structure
-esp32-motion-detector/
-├─ README.md
-├─ .gitignore
-├─ projects/
-│  ├─ 01_blink/
-│  │  └─ 01_blink.ino
-│  └─ 02_motion_mpu6050/
-│     └─ 02_motion_mpu6050.ino
-└─ docs/
-   └─ wiring.md
-
----
 
 ## Hardware
 - ESP32 Dev Board
